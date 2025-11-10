@@ -1,6 +1,6 @@
 # Text Calssification in Practice: From Topic Models to Transformers
 
-Welcome to the Readme file for the CDCS Workshop '**From Images to Text: Working with OCR**'. Below you can find all the details that you will need to get ready and attend this class.
+Welcome to the Readme file for the CDCS Workshop '**Text Calssification in Practice: From Topic Models to Transformers**'. Below you can find all the details that you will need to get ready and attend this class.
 
 ## Overview
 
